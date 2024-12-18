@@ -59,6 +59,10 @@ body {
     z-index: -1;
 }
 
+h1 {
+    margin: 50px;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
